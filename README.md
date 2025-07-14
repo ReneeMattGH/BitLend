@@ -1,4 +1,4 @@
-🚀 BitLend — Top Project @ Bitcoin Online Hackathon 2025
+<strong>🚀 BitLend — Top Project @ Bitcoin Online Hackathon 2025<strong>
 BitLend is a Bitcoin-native innovation that was recognized as one of the Top Projects at the Bitcoin Online Hackathon 2025, selected from thousands of global submissions.
 
 🧠 What We Built
