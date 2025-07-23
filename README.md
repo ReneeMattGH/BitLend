@@ -54,13 +54,13 @@ npm start
 
 
 Run the Application program
-npm run ~ **check if all the dependencies are installed**
+npm run ~ **check whether all the dependencies are installed**
 
 
-Get the project Executed in youre localhost
+Get the project Executed in you're localhost
 npm run dev
 
-and youre project should be open in "https://localhost...."
+and youre project should be open on "https://localhost...."
 
 Make sure you have .env file set up with the required environment variables.
 ```
