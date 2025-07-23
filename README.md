@@ -47,12 +47,20 @@ cd project-name
 
 
 Install Dependencies
-bash
 npm install
 
 Run the Application
-bash
 npm start
+
+
+Run the Application program
+npm run ~ **check if all the dependencies are installed**
+
+
+Get the project Executed in youre localhost
+npm run dev
+
+and youre project should be open in "https://localhost...."
 
 Make sure you have .env file set up with the required environment variables.
 ```
